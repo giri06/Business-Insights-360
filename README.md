@@ -73,7 +73,6 @@ The dashboard is powered by a well-structured **star schema** data model. Below 
 - One-to-many relationships from dimensions to facts
 - Common join keys include `product_code`, `customer_code`, `fiscal_year`, and `date`
 
-![Data Model Schema](./7c3b83fd-8297-4ae7-8715-3289429e33ac.png)
 
 ---
 
